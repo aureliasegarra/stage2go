@@ -11,6 +11,7 @@ comming soon ...
 - Maven
 - JavaFX
 - Scene Builder
+- JDBC
 
 
 ## 🏔 Goals 
